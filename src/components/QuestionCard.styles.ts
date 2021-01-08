@@ -6,10 +6,14 @@ export const Wrapper = styled.div`
   border-radius: 10px;
   border: 1px solid #fff;
   padding: 20px;
+  margin: 2rem;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0, 12);
   text-align: center;
   p {
     font-size: 1rem;
+  }
+  .name {
+    margin: 2rem;
   }
 `;
 type ButtonWrapperProps = {
