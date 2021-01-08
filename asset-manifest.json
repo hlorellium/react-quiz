@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/react-quiz/static/js/main.56829a20.chunk.js",
-    "main.js.map": "/react-quiz/static/js/main.56829a20.chunk.js.map",
+    "main.js": "/react-quiz/static/js/main.8ed6a3a5.chunk.js",
+    "main.js.map": "/react-quiz/static/js/main.8ed6a3a5.chunk.js.map",
     "runtime-main.js": "/react-quiz/static/js/runtime-main.acabde0b.js",
     "runtime-main.js.map": "/react-quiz/static/js/runtime-main.acabde0b.js.map",
     "static/js/2.42104faa.chunk.js": "/react-quiz/static/js/2.42104faa.chunk.js",
     "static/js/2.42104faa.chunk.js.map": "/react-quiz/static/js/2.42104faa.chunk.js.map",
     "index.html": "/react-quiz/index.html",
-    "precache-manifest.2f6388cbcf8dcd115481411a86c8a3ab.js": "/react-quiz/precache-manifest.2f6388cbcf8dcd115481411a86c8a3ab.js",
+    "precache-manifest.9b7d5a07ac0c1ca0b2d3a35307a9696f.js": "/react-quiz/precache-manifest.9b7d5a07ac0c1ca0b2d3a35307a9696f.js",
     "service-worker.js": "/react-quiz/service-worker.js",
     "static/js/2.42104faa.chunk.js.LICENSE.txt": "/react-quiz/static/js/2.42104faa.chunk.js.LICENSE.txt",
     "static/media/tyler-devine.jpg": "/react-quiz/static/media/tyler-devine.5da212d4.jpg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.acabde0b.js",
     "static/js/2.42104faa.chunk.js",
-    "static/js/main.56829a20.chunk.js"
+    "static/js/main.8ed6a3a5.chunk.js"
   ]
 }
